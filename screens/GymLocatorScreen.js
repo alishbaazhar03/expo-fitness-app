@@ -55,7 +55,7 @@ export default function GymLocatorScreen() {
             location: `${lat},${lng}`,
             radius: radius,
             type: 'gym',
-            key: 'AIzaSyDyKgngxb3e6XfjYl36DopmXYjNW0fyn_E', 
+            key: '', 
           }
         }
       );
